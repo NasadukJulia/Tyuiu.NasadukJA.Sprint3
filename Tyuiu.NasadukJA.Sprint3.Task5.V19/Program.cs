@@ -8,8 +8,8 @@ Console.Title = "Спринт #3 | Выполнила: Насадюк Ю. А. | 
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #3                                                               *");
 Console.WriteLine("* Тема: Использование операторов continue и break в цикле                 *");
-Console.WriteLine("* Задание #4                                                              *");
-Console.WriteLine("* Вариант #8                                                              *");
+Console.WriteLine("* Задание #5                                                              *");
+Console.WriteLine("* Вариант #19                                                              *");
 Console.WriteLine("* Выполнила: Насадюк Юлия Андреевна | СМАРТб-25-1                         *");
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                *");
